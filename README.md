@@ -1,0 +1,2 @@
+# SQL_Tableau-Chinook_Company_Project
+As a CEO, you have to define a strategy and create an organization that will execute this strategy. Strategy starts with your vision and mission and then split them into sub-goals that will help you reach your targets. One tool to communicate and have people execute your strategy is using a strategy map (Kaplan &amp; Norton 2000). So a strategy map quantifies the value of tangible and intangible assets and links them to your overall strategy.
